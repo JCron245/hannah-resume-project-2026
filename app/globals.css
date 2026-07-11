@@ -103,7 +103,7 @@ ul {
 	padding: 0 1.5rem;
 }
 section {
-	padding: 3rem 0;
+	padding: 1rem 0;
 }
 
 .btn {
@@ -206,8 +206,24 @@ section {
 
 /* Hero */
 .hero {
-	padding: 4rem 0 3rem;
+	padding: 2rem 0 1rem;
 }
+
+.hero__inner {
+	display: flex;
+	align-items: flex-start;
+	gap: 2rem;
+}
+
+.hero__photo {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	border: 3px solid var(--accent);
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
 .hero h1 {
 	font-size: clamp(2rem, 5vw, 3rem);
 	margin-bottom: 0.25rem;
@@ -387,6 +403,14 @@ section {
 	}
 	.hero {
 		padding: 2.5rem 0 2rem;
+	}
+	.hero__inner {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+	.hero__summary {
+		text-align: left;
 	}
 	.site-footer__inner {
 		flex-direction: column;
