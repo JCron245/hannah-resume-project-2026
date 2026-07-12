@@ -121,12 +121,12 @@ section {
 		color 0.2s;
 }
 .btn--primary {
-	background: var(--accent);
+	background: #a82745;
 	color: #fff;
 }
 .btn--primary:hover,
 .btn--primary:focus-visible {
-	background: var(--accent-hover);
+	background: #8c1f38;
 	color: #fff;
 	text-decoration: none;
 }
