@@ -4,7 +4,7 @@ export function Hero() {
 	return (
 		<section id="about" className="hero cont" aria-labelledby="hero-heading">
 			<div className="hero__header">
-				<img src="/profile.jpg" alt="Hannah Nam" className="hero__photo" width={120} height={120} />
+				<img src="/profile.webp" alt="Hannah Nam" className="hero__photo" width={120} height={120} />
 				<div className="hero__titles">
 					<h1 id="hero-heading">Hannah Nam</h1>
 					<p className="hero__subtitle">Executive Assistant &amp; Business Operations Leader</p>
