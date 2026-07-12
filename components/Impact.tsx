@@ -19,15 +19,13 @@ function ImpactCard({ text }: { text: string }) {
 
 export function Impact() {
 	return (
-		<section id="impact" aria-labelledby="impact-heading">
-			<div className="container">
-				<SectionHeading id="impact-heading">Selected Impact</SectionHeading>
-				<ul className="impact__grid" role="list">
-					{IMPACTS.map((text, i) => (
-						<ImpactCard key={i} text={text} />
-					))}
-				</ul>
-			</div>
+		<section id="impact" aria-labelledby="impact-heading" className="cont">
+			<SectionHeading id="impact-heading">Selected Impact</SectionHeading>
+			<ul className="impact__grid" role="list">
+				{IMPACTS.map((text, i) => (
+					<ImpactCard key={i} text={text} />
+				))}
+			</ul>
 		</section>
 	);
 }

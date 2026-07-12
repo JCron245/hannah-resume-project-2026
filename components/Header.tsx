@@ -12,7 +12,7 @@ const NAV_LINKS = [
 export function Header() {
 	return (
 		<header className="site-header no-print">
-			<nav className="container site-nav" aria-label="Primary navigation">
+			<nav className="cont site-nav" aria-label="Primary navigation">
 				<a href="#main" className="site-nav__brand">
 					Hannah Nam
 				</a>

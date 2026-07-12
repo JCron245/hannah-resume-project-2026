@@ -46,7 +46,7 @@ function ExpertiseGroup({ title, items }: { title: string; items: string[] }) {
 export function Expertise() {
 	return (
 		<section id="expertise" aria-labelledby="expertise-heading">
-			<div className="container">
+			<div className="cont">
 				<SectionHeading id="expertise-heading">Expertise</SectionHeading>
 				<div className="expertise__grid">
 					<ExpertiseGroup title="Executive & Operations Capabilities" items={OPERATIONS} />

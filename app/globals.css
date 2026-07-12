@@ -97,10 +97,10 @@ ul {
 	top: 0;
 }
 
-.container {
+.cont {
 	max-width: var(--max-width);
 	margin: 0 auto;
-	padding: 0 1.5rem;
+	padding: 1rem 2.5rem 1rem 2.5rem;
 }
 section {
 	padding: 1rem 0;
@@ -206,9 +206,6 @@ section {
 }
 
 /* Hero */
-.hero {
-	padding: 2rem 0 1rem;
-}
 
 .hero__header {
 	display: flex;
@@ -399,6 +396,7 @@ section {
 	justify-content: space-between;
 	font-size: 0.85rem;
 	color: var(--text-muted);
+	padding: 0 2.5rem;
 }
 .site-footer__inner p {
 	margin: 0;
@@ -415,9 +413,6 @@ section {
 	}
 	.expertise__grid {
 		grid-template-columns: 1fr;
-	}
-	.hero {
-		padding: 2.5rem 0 2rem;
 	}
 	.hero__header {
 		flex-direction: column;
@@ -441,7 +436,7 @@ section {
 		font-size: 11pt;
 		line-height: 1.4;
 	}
-	.container {
+	.cont {
 		max-width: 100%;
 		padding: 0;
 	}

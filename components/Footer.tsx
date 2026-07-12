@@ -1,7 +1,7 @@
 export function Footer() {
 	return (
 		<footer className="site-footer no-print">
-			<div className="container site-footer__inner">
+			<div className="cont site-footer__inner">
 				<p>© {new Date().getFullYear()} Hannah Nam</p>
 				<ul className="site-footer__links" role="list">
 					<li>
