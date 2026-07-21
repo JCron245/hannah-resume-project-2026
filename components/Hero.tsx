@@ -7,7 +7,7 @@ export function Hero() {
 				<img src="/profile.webp" alt="Hannah Nam" className="hero__photo" width={120} height={120} />
 				<div className="hero__titles">
 					<h1 id="hero-heading">Hannah Nam</h1>
-					<p className="hero__subtitle">Business Operations | Executive Partnership | Operational Excellence</p>
+					<p className="hero__subtitle">Business Operations Leader | Executive Partnership</p>
 				</div>
 			</div>
 			<p className="hero__summary">
