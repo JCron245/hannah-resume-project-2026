@@ -2,14 +2,16 @@ const personSchema = {
 	"@context": "https://schema.org",
 	"@type": "Person",
 	name: "Hannah Nam",
-	jobTitle: "Executive Assistant & Business Operations Manager",
+	jobTitle: "Business Operations Manager & Executive Assistant",
 	sameAs: ["https://www.linkedin.com/in/hannah-nam"],
 	knowsAbout: [
-		"Executive Support",
-		"Office Operations",
+		"Business Operations",
+		"Operations Management",
+		"Process Improvement",
+		"Executive Partnership",
 		"Financial Services Administration",
-		"Client Relationship Management",
-		"Calendar Management",
+		"Technology Implementation",
+		"Team Leadership",
 		"Compliance Documentation"
 	],
 	alumniOf: {

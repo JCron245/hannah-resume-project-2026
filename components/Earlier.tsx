@@ -7,20 +7,24 @@ export function Earlier() {
 			<div className="earlier__entries">
 				<div className="earlier__entry">
 					<div className="earlier__header">
-						<h3>100% Chiropractic</h3>
-						<p className="text-muted">Office Manager · Nov 2019 – Jan 2022</p>
+						<h3>100% Chiropractic Wellness Center</h3>
+						<p className="text-muted">Office Manager / Clinical Director · 2019 – 2022</p>
 					</div>
 					<p>
-						Managed front-office operations for a high-volume chiropractic practice including scheduling, billing, insurance verification,
-						and patient communications.
+						Directed daily clinic operations, staffing, scheduling, billing, inventory management, and financial reporting. Led onboarding,
+						employee training, workflow improvements, and served as HIPAA Compliance Officer. Partnered with leadership on budgeting,
+						reporting, and operational planning.
 					</p>
 				</div>
 				<div className="earlier__entry">
 					<div className="earlier__header">
 						<h3>Chiro One Health Center</h3>
-						<p className="text-muted">Office Manager · Oct 2018 – Nov 2019</p>
+						<p className="text-muted">Manager / Administrator · 2019</p>
 					</div>
-					<p>Oversaw daily office operations, staff coordination, and patient intake workflows.</p>
+					<p>
+						Managed front-office operations including payroll, billing, scheduling, reporting, and insurance coordination while improving
+						administrative efficiency.
+					</p>
 				</div>
 				<div className="earlier__entry">
 					<div className="earlier__header">

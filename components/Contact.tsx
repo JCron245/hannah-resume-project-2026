@@ -6,12 +6,12 @@ export function Contact() {
 		<section id="contact" aria-labelledby="contact-heading" className="cont">
 			<SectionHeading id="contact-heading">Let&apos;s Connect</SectionHeading>
 			<p>
-				I am open to Executive Assistant, Senior Executive Assistant, Office Manager, Executive Operations, and Chief of Staff
+				I am open to Business Operations, Office Manager, Executive Assistant, Senior Executive Assistant, and Operations Leadership
 				opportunities.
 			</p>
 			<p>
-				Particularly interested in organizations that need someone who can protect leadership time, manage complex operations, maintain
-				strong client and stakeholder relationships, and bring reliability to fast-moving environments.
+				Particularly interested in organizations that need someone who can drive operational excellence, implement scalable processes,
+				lead technology and workflow improvements, and partner with executive leadership to solve complex challenges.
 			</p>
 			<ul className="contact__links" role="list">
 				<li>

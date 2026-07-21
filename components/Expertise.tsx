@@ -1,16 +1,18 @@
 import { SectionHeading } from "./SectionHeading";
 
 const OPERATIONS = [
-	"Executive Support",
-	"Calendar & Schedule Management",
-	"Client Relationship Management",
-	"Office Operations",
-	"Workflow Coordination",
-	"Documentation & Compliance",
-	"Financial Plan Coordination",
+	"Business Operations",
+	"Operations Management",
+	"Process Improvement",
+	"Project Management",
+	"Strategic Planning",
+	"Executive Partnership",
+	"Technology Implementation",
 	"Vendor Management",
-	"Confidential Information Handling",
-	"Multi-Provider Office Management",
+	"Budget Coordination",
+	"Team Leadership",
+	"Training & Onboarding",
+	"Workflow Coordination",
 	"Event Planning",
 	"Problem Solving"
 ];
@@ -18,11 +20,13 @@ const OPERATIONS = [
 const TECHNICAL = [
 	"Financial Services Administration",
 	"Securities Compliance",
-	"Insurance Verification",
-	"Billing & Accounts",
-	"Patient/Client Intake",
-	"Microsoft Office Suite",
+	"FINRA Regulations",
+	"Insurance & Annuity Operations",
+	"Payroll Management",
+	"Website Management",
 	"CRM Systems",
+	"Document Management Systems",
+	"Microsoft Office Suite",
 	"Scheduling Systems",
 	"HIPAA Compliance",
 	"Regulatory Documentation"

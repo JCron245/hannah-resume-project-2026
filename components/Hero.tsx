@@ -7,13 +7,13 @@ export function Hero() {
 				<img src="/profile.webp" alt="Hannah Nam" className="hero__photo" width={120} height={120} />
 				<div className="hero__titles">
 					<h1 id="hero-heading">Hannah Nam</h1>
-					<p className="hero__subtitle">Executive Assistant &amp; Business Operations Leader</p>
+					<p className="hero__subtitle">Business Operations | Executive Partnership | Operational Excellence</p>
 				</div>
 			</div>
 			<p className="hero__summary">
-				Administrative and operations professional supporting financial services executives with client-service coordination, business
-				operations, compliance support, and office management. Trusted partner who creates structure, anticipates needs, and keeps business
-				moving.
+				Business Operations professional with 7+ years of experience driving operational excellence, leading cross-functional initiatives,
+				implementing scalable business processes, and partnering with executive leadership across financial services and healthcare
+				organizations. Active FINRA Series 7 licensed professional.
 			</p>
 			<div className="hero__actions">
 				<PrintButton />

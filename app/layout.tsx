@@ -5,22 +5,22 @@ import { Footer } from "@/components/Footer";
 import { ThemeScript } from "@/components/ThemeScript";
 
 export const metadata: Metadata = {
-	title: "Hannah Nam | Executive Assistant & Business Operations",
+	title: "Hannah Nam | Business Operations & Executive Partnership",
 	description:
-		"Executive Assistant and Business Operations professional supporting financial services leaders with client coordination, compliance, and office management.",
+		"Business Operations professional with 7+ years of experience driving operational excellence, leading cross-functional initiatives, and partnering with executive leadership across financial services and healthcare organizations.",
 	metadataBase: new URL("https://hannahnam.com"),
 	openGraph: {
-		title: "Hannah Nam | Executive Assistant",
+		title: "Hannah Nam | Business Operations & Executive Partnership",
 		description:
-			"Administrative and operations professional supporting financial services executives with client-service coordination and business operations.",
+			"Business Operations professional with 7+ years driving operational excellence, implementing scalable processes, and partnering with executive leadership in financial services.",
 		type: "website",
 		locale: "en_US"
 	},
 	twitter: {
 		card: "summary",
-		title: "Hannah Nam | Executive Assistant",
+		title: "Hannah Nam | Business Operations & Executive Partnership",
 		description:
-			"Administrative and operations professional supporting financial services executives with client-service coordination and business operations."
+			"Business Operations professional with 7+ years driving operational excellence, implementing scalable processes, and partnering with executive leadership in financial services."
 	},
 	robots: { index: true, follow: true }
 };

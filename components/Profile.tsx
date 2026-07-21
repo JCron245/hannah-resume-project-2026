@@ -5,17 +5,18 @@ export function Profile() {
 		<section aria-labelledby="profile-heading" className="cont">
 			<SectionHeading id="profile-heading">Executive Profile</SectionHeading>
 			<p>
-				I support senior financial professionals by managing day-to-day operations, coordinating client service workflows, maintaining
-				compliance documentation, and ensuring nothing falls through the cracks.
+				I drive operational excellence by implementing scalable business processes, leading cross-functional initiatives, and partnering
+				with executive leadership to solve complex organizational challenges. My background spans financial services operations, healthcare
+				clinic management, technology implementation, and team leadership across multi-location organizations.
 			</p>
 			<p>
-				My background spans financial services administration, healthcare office management, client relationship coordination, and
-				multi-location operations. I hold securities industry registrations and bring both the professionalism required for regulated
-				environments and the initiative to continuously improve how work gets done.
+				I hold an active FINRA Series 7 license and serve as a Registered Service Assistant, bringing both the regulatory expertise
+				required for securities-regulated environments and the initiative to continuously improve how work gets done through technology,
+				process standardization, and practical operational solutions.
 			</p>
 			<p>
-				I am most effective in environments that need someone who can protect an executive&apos;s time, manage complex calendars and
-				priorities, maintain strong client relationships, and bring order to high-volume operations.
+				I am most effective in environments that need someone who can oversee daily operations, implement systems and workflows, lead
+				onboarding and training, manage vendor and technology relationships, and bring structure to fast-moving teams.
 			</p>
 		</section>
 	);

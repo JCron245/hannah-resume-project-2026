@@ -1,12 +1,12 @@
 import { SectionHeading } from "./SectionHeading";
 
 const IMPACTS = [
-	"Provide ongoing executive support to two financial professionals, coordinating client plans, follow-ups, and administrative execution.",
-	"Maintain confidential client and business records in a securities-regulated environment.",
-	"Coordinate financial plan implementation, ensuring clients receive timely information and resources.",
-	"Managed office operations for multi-provider chiropractic practices serving high patient volumes.",
-	"Built and maintained front-office workflows across scheduling, billing, insurance verification, and patient communications.",
-	"Streamlined administrative processes to improve response times and reduce scheduling conflicts."
+	"Evaluated, selected, and implemented operational software platforms by partnering with vendors, mastering new systems, and training the entire team.",
+	"Designed and standardized operational workflows that improved efficiency, reduced processing errors, and increased consistency.",
+	"Developed SOPs, onboarding resources, and process documentation for administrative, investment, and client-service workflows.",
+	"Led the firm's transition to an organized electronic document management system by creating filing standards and training employees.",
+	"Improved client onboarding by standardizing processes, aligning team workflows, and creating resources for advisors and clients.",
+	"Created budgeting spreadsheets, operational trackers, and workflow tools that simplified reporting and daily operations."
 ];
 
 function ImpactCard({ text }: { text: string }) {
